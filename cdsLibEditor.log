@@ -1,0 +1,11 @@
+\o Program:		@(#)$CDS: cdsLibEditor version 6.1.8 - CAT37 05/19/2023 16:03 (sjfdcl1034) $
+\o Sub version:		sub-version  s332 
+\o Arguments:		-cdslib /home/users/owenr/RF_Projects/Setup/WB-LNA/cds.lib -mpssession virtuoso3245833 -mpshost caddy01.stanford.edu -mpsversion 6.18 
+\o Working Directory:	caddy01.stanford.edu:/home/users/owenr/RF_Projects/Setup/WB-LNA
+\o 64-bit offsets
+\a nrSetWindowVisibility(cdsLibEditor "show")
+\o Qt version: 		5.9.1
+\a nrResizeWindow(cdsLibEditor list(0 0 500 400))
+\a nrSetCurrentWindow(cdsLibEditor)
+\a nrResizeWindow(cdsLibEditor list(34 57 500 400))
+\a exit(0)
