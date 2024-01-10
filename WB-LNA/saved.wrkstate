@@ -1,5 +1,7 @@
 <!DOCTYPE SaveWorkspaceState>
 <SaveWorkspaceState>
-    <Windows/>
+    <Windows>
+        <Schematic width="1920" cell="Top" lib="WB-LNA_lib" geom="1,0,2,215,102,1536,921,1920,1200" view="schematic" x1="-1" height="1129" y1="-8"/>
+    </Windows>
     <MainWindowTab tab="1"/>
 </SaveWorkspaceState>
